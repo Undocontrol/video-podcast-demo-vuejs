@@ -6,6 +6,9 @@ Here are the initial steps to get it all running:
 
 ## Build Setup
 ``` bash
+# CD into the directory 
+cd video-podcast-demo-vuejs
+
 # install dependencies
 npm install
 
