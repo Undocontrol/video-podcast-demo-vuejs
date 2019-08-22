@@ -1,6 +1,8 @@
 # emma-robinson-video-podcast-demo
 
-Hi there and welcome to this demo creating a video podcast. 
+Hi there and welcome to this demo creating a video podcast.
+
+<img width="1435" alt="Screenshot 2019-08-22 at 16 32 06" src="https://user-images.githubusercontent.com/24893988/63528353-afb12100-c4fa-11e9-9b17-c7a13957e5d3.png">
 
 Here are the initial steps to get it all running:
 
